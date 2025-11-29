@@ -11,7 +11,7 @@ import Footer from "./components/Footer";
 import { Toaster } from "react-hot-toast";
 import FAQ from "./pages/FAQ";
 import AdminLogin from "./pages/Admin/AdminLogin";
-import RegisterBanquet from "./pages/Admin/registerBanquet";
+import RegisterBanquet from "./pages/Admin/RegisterBanquet";
 import SingleBanquet  from "./pages/SingleBanquet";
 import BookingCreate from "./pages/Customer/BookingCreate";
 import GetAllBookingByCustomerId from "./pages/Customer/GetAllBookingByCustomerId";
