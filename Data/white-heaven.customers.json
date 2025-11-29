@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "692880c80b88e3251e0ae490"
+  },
+  "email": "priyampaul107@gmail.com",
+  "password": "$2b$10$Xmv7VYYb6cQZ4C2N5LDDU.enBVuBMRwBfs8IPwyKDUGCpxsVbmxwK",
+  "role": "customer",
+  "name": "Priyam Paul",
+  "address": "K-19/1776 sangam vihar",
+  "mobileNo": "09310997248",
+  "profileImage": {
+    "path": "uploads\\profileImages\\1764262088102.JPG",
+    "filename": "1764262088102.JPG"
+  },
+  "createdAt": {
+    "$date": "2025-11-27T16:48:09.194Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-27T16:48:09.194Z"
+  },
+  "customerId": 31,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692881230b88e3251e0ae495"
+  },
+  "email": "manishgoswami2000@gmail.com",
+  "password": "$2b$10$ziRr.jppwk2IkTHXv2CNAOae8nVuRPy8H48t6xw4hD4YdtMdTbm86",
+  "role": "customer",
+  "name": "Manish Goswami",
+  "address": "Mayur Vihar ph-II",
+  "mobileNo": "7982688959",
+  "profileImage": {
+    "path": "uploads\\profileImages\\1764262179112.jpg",
+    "filename": "1764262179112.jpg"
+  },
+  "createdAt": {
+    "$date": "2025-11-27T16:49:39.864Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-27T16:49:39.864Z"
+  },
+  "customerId": 32,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692881720b88e3251e0ae49a"
+  },
+  "email": "deathrocker7286@gmail.com",
+  "password": "$2b$10$.LpiSMTICYtPyYtC6XBAket0xb9dMJ//UC7RaP2JuH7RVDDOkojd2",
+  "role": "customer",
+  "name": "Monu",
+  "address": "Khanpur New delhi",
+  "mobileNo": "8377044433",
+  "profileImage": {
+    "path": "uploads\\profileImages\\1764262258126.jpg",
+    "filename": "1764262258126.jpg"
+  },
+  "createdAt": {
+    "$date": "2025-11-27T16:50:58.545Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-27T16:50:58.545Z"
+  },
+  "customerId": 33,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6928be440b88e3251e0b0ea1"
+  },
+  "email": "kapil@kapil.com",
+  "password": "$2b$10$3JAvnmxSEokAffCRleQ2Y.3oS44TQIiE.aTfZUOb5xbGUnSbN/xbC",
+  "role": "customer",
+  "name": "Kapil",
+  "address": "Sangam Vihar",
+  "mobileNo": "09310997248",
+  "profileImage": {
+    "path": "uploads\\profileImages\\1764277828421.png",
+    "filename": "1764277828421.png"
+  },
+  "createdAt": {
+    "$date": "2025-11-27T21:10:28.964Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-27T21:10:28.964Z"
+  },
+  "customerId": 34,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6928be6b0b88e3251e0b0ea6"
+  },
+  "email": "Jatin@jatu.com",
+  "password": "$2b$10$KiJfp/rY772Sopit7l2DBuEQdCFYTOMMLyDj6WIIo8O8SlIM2f5Ei",
+  "role": "customer",
+  "name": "Jatin",
+  "address": "K-19/1776 sangam vihar",
+  "mobileNo": "09310997248",
+  "profileImage": {
+    "path": "uploads\\profileImages\\1764277867448.jpg",
+    "filename": "1764277867448.jpg"
+  },
+  "createdAt": {
+    "$date": "2025-11-27T21:11:07.985Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-27T21:11:07.985Z"
+  },
+  "customerId": 35,
+  "__v": 0
+}]

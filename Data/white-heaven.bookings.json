@@ -1,0 +1,520 @@
+[{
+  "_id": {
+    "$oid": "69290b7dd2bec3ef4f5d74f6"
+  },
+  "customer": {
+    "$oid": "6928be440b88e3251e0b0ea1"
+  },
+  "banquet": {
+    "$oid": "6928b9310b88e3251e0b0608"
+  },
+  "description": "meri baap ki shadi",
+  "dateStart": {
+    "$date": "2025-11-21T00:00:00.000Z"
+  },
+  "dateEnd": {
+    "$date": "2025-11-28T00:00:00.000Z"
+  },
+  "totalCharge": 385000,
+  "createdAt": {
+    "$date": "2025-11-28T02:39:57.970Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-28T02:39:57.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69290f6ad2bec3ef4f5d7554"
+  },
+  "customer": {
+    "$oid": "6928be440b88e3251e0b0ea1"
+  },
+  "banquet": {
+    "$oid": "6928b9310b88e3251e0b0608"
+  },
+  "description": "Festive Celebration (Diwali / Christmas / Eid)",
+  "dateStart": {
+    "$date": "2025-11-06T00:00:00.000Z"
+  },
+  "dateEnd": {
+    "$date": "2025-11-07T00:00:00.000Z"
+  },
+  "totalCharge": 55000,
+  "createdAt": {
+    "$date": "2025-11-28T02:56:42.182Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-28T02:56:42.182Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6929e4c6a887b5d73877c538"
+  },
+  "customer": {
+    "$oid": "6928be440b88e3251e0b0ea1"
+  },
+  "banquet": {
+    "$oid": "6928b9310b88e3251e0b0608"
+  },
+  "description": "Just want to ",
+  "dateStart": {
+    "$date": "2025-11-29T00:00:00.000Z"
+  },
+  "dateEnd": {
+    "$date": "2025-11-30T00:00:00.000Z"
+  },
+  "totalCharge": 55000,
+  "createdAt": {
+    "$date": "2025-11-28T18:07:02.398Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-28T18:07:02.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6929ed79919d0f9b7d64434b"
+  },
+  "customer": {
+    "$oid": "6928be440b88e3251e0b0ea1"
+  },
+  "banquet": {
+    "$oid": "6928bc460b88e3251e0b07c6"
+  },
+  "description": "bjhydshjbbjhsd",
+  "dateStart": {
+    "$date": "2025-11-01T00:00:00.000Z"
+  },
+  "dateEnd": {
+    "$date": "2025-11-24T00:00:00.000Z"
+  },
+  "totalCharge": 1897500,
+  "createdAt": {
+    "$date": "2025-11-28T18:44:09.249Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-28T18:44:09.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6929edf320739b1f415f8fb4"
+  },
+  "customer": {
+    "$oid": "6928be440b88e3251e0b0ea1"
+  },
+  "banquet": {
+    "$oid": "6928bafe0b88e3251e0b0629"
+  },
+  "description": "bjhydshjbbjhsd",
+  "dateStart": {
+    "$date": "2025-11-18T00:00:00.000Z"
+  },
+  "dateEnd": {
+    "$date": "2025-11-15T00:00:00.000Z"
+  },
+  "totalCharge": 28000,
+  "createdAt": {
+    "$date": "2025-11-28T18:46:11.952Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-28T18:46:11.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6929f02c20739b1f415f8fbc"
+  },
+  "customer": {
+    "$oid": "6928be440b88e3251e0b0ea1"
+  },
+  "banquet": {
+    "$oid": "6928bafe0b88e3251e0b0629"
+  },
+  "description": "SXDCFVGBH",
+  "dateStart": {
+    "$date": "2025-10-16T00:00:00.000Z"
+  },
+  "dateEnd": {
+    "$date": "2025-11-20T00:00:00.000Z"
+  },
+  "totalCharge": 980000,
+  "createdAt": {
+    "$date": "2025-11-28T18:55:40.487Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-28T18:55:40.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6929f03320739b1f415f8fc3"
+  },
+  "customer": {
+    "$oid": "6928be440b88e3251e0b0ea1"
+  },
+  "banquet": {
+    "$oid": "6928bafe0b88e3251e0b0629"
+  },
+  "description": "SXDCFVGBH",
+  "dateStart": {
+    "$date": "2025-10-16T00:00:00.000Z"
+  },
+  "dateEnd": {
+    "$date": "2025-11-20T00:00:00.000Z"
+  },
+  "totalCharge": 980000,
+  "createdAt": {
+    "$date": "2025-11-28T18:55:47.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-28T18:55:47.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6929f04820739b1f415f8fca"
+  },
+  "customer": {
+    "$oid": "6928be440b88e3251e0b0ea1"
+  },
+  "banquet": {
+    "$oid": "6928bafe0b88e3251e0b0629"
+  },
+  "description": "SXDCFVGBH",
+  "dateStart": {
+    "$date": "2025-10-16T00:00:00.000Z"
+  },
+  "dateEnd": {
+    "$date": "2025-11-20T00:00:00.000Z"
+  },
+  "totalCharge": 980000,
+  "createdAt": {
+    "$date": "2025-11-28T18:56:08.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-28T18:56:08.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6929f099411f949572569ab0"
+  },
+  "customer": {
+    "$oid": "6928be440b88e3251e0b0ea1"
+  },
+  "banquet": {
+    "$oid": "6928bafe0b88e3251e0b0629"
+  },
+  "description": "SXDCFVGBH",
+  "dateStart": {
+    "$date": "2025-10-16T00:00:00.000Z"
+  },
+  "dateEnd": {
+    "$date": "2025-11-20T00:00:00.000Z"
+  },
+  "totalCharge": 980000,
+  "createdAt": {
+    "$date": "2025-11-28T18:57:29.712Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-28T18:57:29.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6929f12d12f817e47451833c"
+  },
+  "customer": {
+    "$oid": "6928be440b88e3251e0b0ea1"
+  },
+  "banquet": {
+    "$oid": "6928bafe0b88e3251e0b0629"
+  },
+  "description": "SXDCFVGBH",
+  "dateStart": {
+    "$date": "2025-10-16T00:00:00.000Z"
+  },
+  "dateEnd": {
+    "$date": "2025-11-20T00:00:00.000Z"
+  },
+  "totalCharge": 980000,
+  "createdAt": {
+    "$date": "2025-11-28T18:59:57.741Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-28T18:59:57.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6929f1f912f817e474518345"
+  },
+  "customer": {
+    "$oid": "6928be440b88e3251e0b0ea1"
+  },
+  "banquet": {
+    "$oid": "6928bafe0b88e3251e0b0629"
+  },
+  "description": "SXDCFVGBH",
+  "dateStart": {
+    "$date": "2025-10-16T00:00:00.000Z"
+  },
+  "dateEnd": {
+    "$date": "2025-11-20T00:00:00.000Z"
+  },
+  "totalCharge": 980000,
+  "createdAt": {
+    "$date": "2025-11-28T19:03:21.992Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-28T19:03:21.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ac1f62f95f044c0cebebd"
+  },
+  "customer": {
+    "$oid": "6928be440b88e3251e0b0ea1"
+  },
+  "banquet": {
+    "$oid": "6928bb8a0b88e3251e0b062d"
+  },
+  "description": "For important reason",
+  "dateStart": {
+    "$date": "2025-11-29T00:00:00.000Z"
+  },
+  "dateEnd": {
+    "$date": "2025-11-29T00:00:00.000Z"
+  },
+  "totalCharge": 79999,
+  "createdAt": {
+    "$date": "2025-11-29T09:50:46.840Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-29T09:50:46.840Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ac473f895ab2e6e0c97cd"
+  },
+  "customer": {
+    "$oid": "6928be440b88e3251e0b0ea1"
+  },
+  "banquet": {
+    "$oid": "6928bb8a0b88e3251e0b062d"
+  },
+  "description": "For important reason",
+  "dateStart": {
+    "$date": "2025-11-29T00:00:00.000Z"
+  },
+  "dateEnd": {
+    "$date": "2025-11-29T00:00:00.000Z"
+  },
+  "totalCharge": 79999,
+  "createdAt": {
+    "$date": "2025-11-29T10:01:23.091Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-29T10:01:23.091Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ac485f895ab2e6e0c97d4"
+  },
+  "customer": {
+    "$oid": "6928be440b88e3251e0b0ea1"
+  },
+  "banquet": {
+    "$oid": "6928bb8a0b88e3251e0b062d"
+  },
+  "description": "For important reason",
+  "dateStart": {
+    "$date": "2025-11-29T00:00:00.000Z"
+  },
+  "dateEnd": {
+    "$date": "2025-11-29T00:00:00.000Z"
+  },
+  "totalCharge": 79999,
+  "createdAt": {
+    "$date": "2025-11-29T10:01:41.481Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-29T10:01:41.481Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ac4b91a86fb38bb3a70ba"
+  },
+  "customer": {
+    "$oid": "6928be440b88e3251e0b0ea1"
+  },
+  "banquet": {
+    "$oid": "6928bb8a0b88e3251e0b062d"
+  },
+  "description": "For important reason",
+  "dateStart": {
+    "$date": "2025-11-29T00:00:00.000Z"
+  },
+  "dateEnd": {
+    "$date": "2025-11-29T00:00:00.000Z"
+  },
+  "totalCharge": 79999,
+  "createdAt": {
+    "$date": "2025-11-29T10:02:33.388Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-29T10:02:33.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ac5081a86fb38bb3a70c1"
+  },
+  "customer": {
+    "$oid": "6928be440b88e3251e0b0ea1"
+  },
+  "banquet": {
+    "$oid": "6928bb8a0b88e3251e0b062d"
+  },
+  "description": "For important reason",
+  "dateStart": {
+    "$date": "2025-11-29T00:00:00.000Z"
+  },
+  "dateEnd": {
+    "$date": "2025-11-29T00:00:00.000Z"
+  },
+  "totalCharge": 79999,
+  "createdAt": {
+    "$date": "2025-11-29T10:03:52.969Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-29T10:03:52.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ac5471a86fb38bb3a70c8"
+  },
+  "customer": {
+    "$oid": "6928be440b88e3251e0b0ea1"
+  },
+  "banquet": {
+    "$oid": "6928bb8a0b88e3251e0b062d"
+  },
+  "description": "For important reason",
+  "dateStart": {
+    "$date": "2025-11-29T00:00:00.000Z"
+  },
+  "dateEnd": {
+    "$date": "2025-11-29T00:00:00.000Z"
+  },
+  "totalCharge": 79999,
+  "createdAt": {
+    "$date": "2025-11-29T10:04:55.440Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-29T10:05:21.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692acca5d714ce7b8796ae2d"
+  },
+  "customer": {
+    "$oid": "6928be6b0b88e3251e0b0ea6"
+  },
+  "banquet": {
+    "$oid": "6928bb8a0b88e3251e0b062d"
+  },
+  "description": "nnin",
+  "dateStart": {
+    "$date": "2025-11-20T00:00:00.000Z"
+  },
+  "dateEnd": {
+    "$date": "2025-11-28T00:00:00.000Z"
+  },
+  "totalCharge": 639992,
+  "createdAt": {
+    "$date": "2025-11-29T10:36:21.497Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-29T10:36:21.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692accc1d714ce7b8796ae34"
+  },
+  "customer": {
+    "$oid": "6928be6b0b88e3251e0b0ea6"
+  },
+  "banquet": {
+    "$oid": "6928bb8a0b88e3251e0b062d"
+  },
+  "description": "nnin",
+  "dateStart": {
+    "$date": "2025-12-15T00:00:00.000Z"
+  },
+  "dateEnd": {
+    "$date": "2025-12-29T00:00:00.000Z"
+  },
+  "totalCharge": 1119986,
+  "createdAt": {
+    "$date": "2025-11-29T10:36:49.093Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-29T10:36:49.093Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692acd239cbe750f52dfd646"
+  },
+  "customer": {
+    "$oid": "6928be6b0b88e3251e0b0ea6"
+  },
+  "banquet": {
+    "$oid": "6928bb8a0b88e3251e0b062d"
+  },
+  "description": "nnin",
+  "dateStart": {
+    "$date": "2025-12-27T00:00:00.000Z"
+  },
+  "dateEnd": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "totalCharge": 79999,
+  "createdAt": {
+    "$date": "2025-11-29T10:38:27.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-29T10:38:27.055Z"
+  },
+  "__v": 0
+}]

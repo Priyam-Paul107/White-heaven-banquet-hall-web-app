@@ -1,0 +1,512 @@
+[{
+  "_id": {
+    "$oid": "6928b9310b88e3251e0b0608"
+  },
+  "name": "Rajesh Verma",
+  "ownerEMail": "rajesh.verma@example.com",
+  "BanquetName": "Golden Orchid Banquet",
+  "capacity": 350,
+  "description": "A modern banquet hall ideal for weddings, receptions, and corporate events with premium décor.",
+  "mobileNo": "9876543210",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      87.39624023437501,
+      23.52760353150454
+    ]
+  },
+  "type": "Wedding",
+  "charge": 55000,
+  "coverImage": {
+    "path": "uploads\\banquets\\1764276527899-.jpg",
+    "filename": "1764276527899-.jpg"
+  },
+  "additionalImages": [
+    {
+      "path": "uploads\\banquets\\1764276528355-.jpg",
+      "filename": "1764276528355-.jpg",
+      "_id": {
+        "$oid": "6928b9320b88e3251e0b0609"
+      }
+    },
+    {
+      "path": "uploads\\banquets\\1764276528555-.jpg",
+      "filename": "1764276528555-.jpg",
+      "_id": {
+        "$oid": "6928b9320b88e3251e0b060a"
+      }
+    },
+    {
+      "path": "uploads\\banquets\\1764276528558-.webp",
+      "filename": "1764276528558-.webp",
+      "_id": {
+        "$oid": "6928b9320b88e3251e0b060b"
+      }
+    },
+    {
+      "path": "uploads\\banquets\\1764276528560-.avif",
+      "filename": "1764276528560-.avif",
+      "_id": {
+        "$oid": "6928b9320b88e3251e0b060c"
+      }
+    },
+    {
+      "path": "uploads\\banquets\\1764276528561-.avif",
+      "filename": "1764276528561-.avif",
+      "_id": {
+        "$oid": "6928b9320b88e3251e0b060d"
+      }
+    },
+    {
+      "path": "uploads\\banquets\\1764276528562-.jpeg",
+      "filename": "1764276528562-.jpeg",
+      "_id": {
+        "$oid": "6928b9320b88e3251e0b060e"
+      }
+    },
+    {
+      "path": "uploads\\banquets\\1764276528564-.jpg",
+      "filename": "1764276528564-.jpg",
+      "_id": {
+        "$oid": "6928b9320b88e3251e0b060f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-11-27T20:48:50.628Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-27T20:48:50.628Z"
+  },
+  "banquetId": 13,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6928bafe0b88e3251e0b0629"
+  },
+  "name": "Priya Sharma",
+  "ownerEMail": "priya.sharma@example.com",
+  "BanquetName": "Sapphire Crown Hall",
+  "capacity": 200,
+  "description": "Compact, elegant hall suitable for birthday parties, small weddings, and engagements.",
+  "mobileNo": "9123456780",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      72.89428710937501,
+      19.010060486781853
+    ]
+  },
+  "type": "Party Hall",
+  "charge": 28000,
+  "coverImage": {
+    "path": "uploads\\banquets\\1764276989724-.jpg",
+    "filename": "1764276989724-.jpg"
+  },
+  "additionalImages": [],
+  "createdAt": {
+    "$date": "2025-11-27T20:56:30.014Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-27T20:56:30.014Z"
+  },
+  "banquetId": 16,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6928bb8a0b88e3251e0b062d"
+  },
+  "name": "Arvind Singh",
+  "ownerEMail": "arvind.singh@example.com",
+  "BanquetName": "Royal Heritage Banquets",
+  "capacity": 500,
+  "description": "Luxurious wedding hall with royal interiors, large stage, and catering facilities.",
+  "mobileNo": "9001234567",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.16796875000001,
+      28.574391758396764
+    ]
+  },
+  "type": "Luxury Wedding Hall",
+  "charge": 79999,
+  "coverImage": {
+    "path": "uploads\\banquets\\1764277130337-.jpg",
+    "filename": "1764277130337-.jpg"
+  },
+  "additionalImages": [],
+  "createdAt": {
+    "$date": "2025-11-27T20:58:50.349Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-27T20:58:50.349Z"
+  },
+  "banquetId": 17,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6928bbfc0b88e3251e0b07c2"
+  },
+  "name": "Neha Gupta",
+  "ownerEMail": "neha.gupta@example.com",
+  "BanquetName": "Emerald Elite Banquet",
+  "capacity": 120,
+  "description": "Stylish banquet hall best suited for corporate meetings, seminars, and family gatherings.",
+  "mobileNo": "9890123456",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      78.53027343750001,
+      17.30423021231121
+    ]
+  },
+  "type": "Corporate",
+  "charge": 22500,
+  "coverImage": {
+    "path": "uploads\\banquets\\1764277244066-.jpg",
+    "filename": "1764277244066-.jpg"
+  },
+  "additionalImages": [],
+  "createdAt": {
+    "$date": "2025-11-27T21:00:44.104Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-27T21:00:44.104Z"
+  },
+  "banquetId": 18,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6928bc460b88e3251e0b07c6"
+  },
+  "name": "Imran Khan",
+  "ownerEMail": "neha.gupta@example.com",
+  "BanquetName": "Moonlight Grand Hall",
+  "capacity": 120,
+  "description": "Stylish banquet hall best suited for corporate meetings, seminars, and family gatherings.",
+  "mobileNo": "9890123456",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.47558593750001,
+      28.30413921654641
+    ]
+  },
+  "type": "Corporate",
+  "charge": 82500,
+  "coverImage": {
+    "path": "uploads\\banquets\\1764277318351-.jpg",
+    "filename": "1764277318351-.jpg"
+  },
+  "additionalImages": [],
+  "createdAt": {
+    "$date": "2025-11-27T21:01:58.358Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-27T21:01:58.358Z"
+  },
+  "banquetId": 19,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6928bc620b88e3251e0b07ca"
+  },
+  "name": "Imran Khan",
+  "ownerEMail": "neha.gupta@example.com",
+  "BanquetName": "Moonlight Grand Hall",
+  "capacity": 120,
+  "description": "Stylish banquet hall best suited for corporate meetings, seminars, and family gatherings.",
+  "mobileNo": "9890123456",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.47558593750001,
+      28.30413921654641
+    ]
+  },
+  "type": "Corporate",
+  "charge": 82500,
+  "coverImage": {
+    "path": "uploads\\banquets\\1764277346542-.jpg",
+    "filename": "1764277346542-.jpg"
+  },
+  "additionalImages": [],
+  "createdAt": {
+    "$date": "2025-11-27T21:02:26.717Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-27T21:02:26.717Z"
+  },
+  "banquetId": 20,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6928bc6e0b88e3251e0b07ce"
+  },
+  "name": "Imran Khan",
+  "ownerEMail": "neha.gupta@example.com",
+  "BanquetName": "Moonlight Grand Hall",
+  "capacity": 120,
+  "description": "Stylish banquet hall best suited for corporate meetings, seminars, and family gatherings.",
+  "mobileNo": "9890123456",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.47558593750001,
+      28.30413921654641
+    ]
+  },
+  "type": "Corporate",
+  "charge": 82500,
+  "coverImage": {
+    "path": "uploads\\banquets\\1764277358184-.jpeg",
+    "filename": "1764277358184-.jpeg"
+  },
+  "additionalImages": [],
+  "createdAt": {
+    "$date": "2025-11-27T21:02:38.192Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-27T21:02:38.192Z"
+  },
+  "banquetId": 21,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6928bc760b88e3251e0b07d2"
+  },
+  "name": "Imran Khan",
+  "ownerEMail": "neha.gupta@example.com",
+  "BanquetName": "Moonlight Grand Hall",
+  "capacity": 120,
+  "description": "Stylish banquet hall best suited for corporate meetings, seminars, and family gatherings.",
+  "mobileNo": "9890123456",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.47558593750001,
+      28.30413921654641
+    ]
+  },
+  "type": "Corporate",
+  "charge": 82500,
+  "coverImage": {
+    "path": "uploads\\banquets\\1764277366635-.jpeg",
+    "filename": "1764277366635-.jpeg"
+  },
+  "additionalImages": [],
+  "createdAt": {
+    "$date": "2025-11-27T21:02:46.643Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-27T21:02:46.643Z"
+  },
+  "banquetId": 22,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6928bc7f0b88e3251e0b07d6"
+  },
+  "name": "Imran Khan",
+  "ownerEMail": "neha.gupta@example.com",
+  "BanquetName": "Moonlight Grand Hall",
+  "capacity": 120,
+  "description": "Stylish banquet hall best suited for corporate meetings, seminars, and family gatherings.",
+  "mobileNo": "9890123456",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.47558593750001,
+      28.30413921654641
+    ]
+  },
+  "type": "Corporate",
+  "charge": 82500,
+  "coverImage": {
+    "path": "uploads\\banquets\\1764277375551-.avif",
+    "filename": "1764277375551-.avif"
+  },
+  "additionalImages": [],
+  "createdAt": {
+    "$date": "2025-11-27T21:02:55.556Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-27T21:02:55.556Z"
+  },
+  "banquetId": 23,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6928bc880b88e3251e0b07da"
+  },
+  "name": "Imran Khan",
+  "ownerEMail": "neha.gupta@example.com",
+  "BanquetName": "Moonlight Grand Hall",
+  "capacity": 120,
+  "description": "Stylish banquet hall best suited for corporate meetings, seminars, and family gatherings.",
+  "mobileNo": "9890123456",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.47558593750001,
+      28.30413921654641
+    ]
+  },
+  "type": "Corporate",
+  "charge": 82500,
+  "coverImage": {
+    "path": "uploads\\banquets\\1764277384881-.jpeg",
+    "filename": "1764277384881-.jpeg"
+  },
+  "additionalImages": [],
+  "createdAt": {
+    "$date": "2025-11-27T21:03:04.923Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-27T21:03:04.923Z"
+  },
+  "banquetId": 24,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6928bc920b88e3251e0b07de"
+  },
+  "name": "Imran Khan",
+  "ownerEMail": "neha.gupta@example.com",
+  "BanquetName": "Moonlight Grand Hall",
+  "capacity": 120,
+  "description": "Stylish banquet hall best suited for corporate meetings, seminars, and family gatherings.",
+  "mobileNo": "9890123456",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.47558593750001,
+      28.30413921654641
+    ]
+  },
+  "type": "Corporate",
+  "charge": 82500,
+  "coverImage": {
+    "path": "uploads\\banquets\\1764277394019-.avif",
+    "filename": "1764277394019-.avif"
+  },
+  "additionalImages": [],
+  "createdAt": {
+    "$date": "2025-11-27T21:03:14.054Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-27T21:03:14.054Z"
+  },
+  "banquetId": 25,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6928bc9d0b88e3251e0b07e2"
+  },
+  "name": "Imran Khan",
+  "ownerEMail": "neha.gupta@example.com",
+  "BanquetName": "Moonlight Grand Hall",
+  "capacity": 120,
+  "description": "Stylish banquet hall best suited for corporate meetings, seminars, and family gatherings.",
+  "mobileNo": "9890123456",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.47558593750001,
+      28.30413921654641
+    ]
+  },
+  "type": "Corporate",
+  "charge": 82500,
+  "coverImage": {
+    "path": "uploads\\banquets\\1764277405617-.webp",
+    "filename": "1764277405617-.webp"
+  },
+  "additionalImages": [],
+  "createdAt": {
+    "$date": "2025-11-27T21:03:25.626Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-27T21:03:25.626Z"
+  },
+  "banquetId": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6928bca80b88e3251e0b07e6"
+  },
+  "name": "Imran Khan",
+  "ownerEMail": "neha.gupta@example.com",
+  "BanquetName": "Moonlight Grand Hall",
+  "capacity": 120,
+  "description": "Stylish banquet hall best suited for corporate meetings, seminars, and family gatherings.",
+  "mobileNo": "9890123456",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.47558593750001,
+      28.30413921654641
+    ]
+  },
+  "type": "Corporate",
+  "charge": 82500,
+  "coverImage": {
+    "path": "uploads\\banquets\\1764277416187-.jpg",
+    "filename": "1764277416187-.jpg"
+  },
+  "additionalImages": [],
+  "createdAt": {
+    "$date": "2025-11-27T21:03:36.349Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-27T21:03:36.349Z"
+  },
+  "banquetId": 27,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6928bcb90b88e3251e0b07ea"
+  },
+  "name": "Imran Khan",
+  "ownerEMail": "neha.gupta@example.com",
+  "BanquetName": "Moonlight Grand Hall",
+  "capacity": 120,
+  "description": "Stylish banquet hall best suited for corporate meetings, seminars, and family gatherings.",
+  "mobileNo": "9890123456",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.47558593750001,
+      28.30413921654641
+    ]
+  },
+  "type": "Corporate",
+  "charge": 82500,
+  "coverImage": {
+    "path": "uploads\\banquets\\1764277433157-.jpg",
+    "filename": "1764277433157-.jpg"
+  },
+  "additionalImages": [],
+  "createdAt": {
+    "$date": "2025-11-27T21:03:53.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-27T21:03:53.165Z"
+  },
+  "banquetId": 28,
+  "__v": 0
+}]

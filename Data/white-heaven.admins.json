@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "69221395e7b5c489df646438"
+  },
+  "name": "priyam",
+  "mobileNo": "9310997248",
+  "address": "sangam vihar",
+  "role": "admin",
+  "email": "priyampaul106@gmail.com",
+  "password": "$2b$10$9sRk3xpBIhxQBPXlUjgjjOyz6.QvS.MFXilkEL3tJg5a.Cw7KgrLi",
+  "profileImage": {
+    "path": "uploads\\profileImages\\1763840917279.jpg",
+    "filename": "1763840917279.jpg"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T19:48:37.788Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T19:48:37.788Z"
+  },
+  "__v": 0
+}]

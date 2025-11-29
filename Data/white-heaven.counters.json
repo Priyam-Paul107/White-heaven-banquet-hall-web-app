@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6920cb7793f72e871078db7f"
+  },
+  "id": "customerId",
+  "reference_value": null,
+  "seq": 35
+},
+{
+  "_id": {
+    "$oid": "692198a793f72e871078dbcb"
+  },
+  "reference_value": null,
+  "id": "banquetId",
+  "seq": 28
+}]
